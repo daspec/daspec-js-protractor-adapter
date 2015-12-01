@@ -1,5 +1,5 @@
 {
-  "name": "daspec-js-protractor-driver",
+  "name": "daspec-protractor-adapter",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/daspec-protractor-driver.js",
