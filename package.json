@@ -1,0 +1,12 @@
+{
+  "name": "daspec-js-protractor-driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/daspec-protractor-driver.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "daspec": "^1.1.0",
+    "q": "^1.4.1"
+  }
+}
